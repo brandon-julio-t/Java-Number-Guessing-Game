@@ -10,5 +10,4 @@ A Java Swing Application
 
 1. `git clone` this repository
 1. `cd` into the clonned repository's directory
-1. Run `javac Application.java`
-1. Run `java Application`
+1. Run `java -jar NumberGuess.jar`
