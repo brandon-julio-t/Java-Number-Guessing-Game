@@ -1,6 +1,5 @@
-# Java-Number-Guessing-Game
-
-A Java Swing Application
+[![](https://img.shields.io/badge/status-Finished-brightgreen)]()
+[![](https://img.shields.io/github/last-commit/brandon-julio-t/Java-Number-Guessing-Game)]()
 
 ## Prerequisite
 
