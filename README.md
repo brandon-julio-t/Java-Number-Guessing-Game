@@ -1,6 +1,8 @@
 [![](https://img.shields.io/badge/status-Finished-brightgreen)]()
 [![](https://img.shields.io/github/last-commit/brandon-julio-t/Java-Number-Guessing-Game)]()
 
+# Java Number Guessing Game
+
 ## Prerequisite
 
 [Java SE](https://www.oracle.com/technetwork/java/javase/downloads/index.html)
